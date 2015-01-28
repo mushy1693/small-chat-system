@@ -1,0 +1,49 @@
+input{
+
+	font-family: Italic;
+	font-size: 20px;
+	border: 1px solid;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+
+}
+#submit:hover{
+
+	font-weight: bold;
+
+}
+
+form{
+
+	text-align: center;
+	border-style: solid;
+	border-radius: 5px;
+	padding:15px;
+	margin-right: 200px;
+	margin-left: 200px;
+	background-color: #66CCCC;
+	box-shadow: 4px 4px black;
+
+}
+
+h1{
+
+	text-align: center;
+	font-family: "Bradley Hand ITC";
+	font-size: 70px;
+	text-shadow: 4px 4px 4px black;
+
+}
+
+body{
+
+	background-color: #FFFF99;
+
+}
+
+a{
+
+	text-decoration: none;
+
+}
