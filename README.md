@@ -8,3 +8,13 @@ The web application is built on PHP. It is designed to allow asynchronous chat w
 * Change username and password
 * Uses pure JavaScript Ajax implementation
 * Connected to a back-end MYSQL Database
+
+### Contributor: ###
+
+* [Mushy1693](https://bitbucket.org/mushy1693/)
+
+### Languages: ###
+
+* HTML and CSS
+* Ajax
+* PHP, MySQL
